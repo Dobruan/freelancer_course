@@ -46,3 +46,7 @@ footer > .gallery > span {
 footer .gallery > span + p {
     color: darkorchid;
 }
+
+#product{
+	color: olivedrab;
+}
